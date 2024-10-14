@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "quantity": 19,
+      "description": "Lorem ipsum...",
+      "image": "https://img.ws.mms.shopee.vn/2c863b79c654c99f902fad84bb82e329"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "quantity": 19,
+      "description": "Lorem ipsum...",
+      "image": "https://studiovietnam.com/wp-content/uploads/2022/10/cach-chup-tui-xach-dep-01.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful Handbag",
+      "price": 30,
+      "quantity": 20,
+      "description": "Lorem ipsum...",
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/365/392/products/1-6bd6f034-457e-4c4a-b148-b98dcee8b0b9.jpg?v=1684211433053"
+    }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "quantity": 1,
+      "description": "Lorem ipsum...",
+      "image": "https://img.ws.mms.shopee.vn/2c863b79c654c99f902fad84bb82e329"
+    }
+  ]
+}
